@@ -1,4 +1,7 @@
 # oereb-db
+
+**Important note: This repository is not active anymore. Development continues in https://github.com/sogis/oereb-db.**
+
 Docker image providing a PostGIS database with OEREB tables
 
 Das Dockerimage dient während der Entwicklung verschiedenen Zwecken:
